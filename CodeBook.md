@@ -4,6 +4,6 @@
 3. A second tidy set was created.
 
 # Variables:
-x_train, y_train, x_test, y_test, subject_train and subject_test contain data from the given datasets.
-x_both, y_both, and subject_both were created by merging the above datasets.
-features contains the column names for the x_both dataset.
+1. x_train, y_train, x_test, y_test, subject_train and subject_test contain data from the given datasets.
+2. x_both, y_both, and subject_both were created by merging the above datasets.
+3. features contains the column names for the x_both dataset.
